@@ -12,10 +12,8 @@
   <img src="images/two_cylinder.png" alt="images/two_cylinder.png" width="200"/>
   <img src="images/multi_object.png" alt="images/multi_object.png" width="200"/>
   <img src="images/normal_sphere.png" alt="images/normal_sphere.png" width="200"/>
-  <img src="images/normal_sphere2.png" alt="images/normal_sphere2.png" width="200"/>
   <img src="images/normal_cylinder.png" alt="images/normal_cylinder.png" width="200"/>
   <img src="images/rotate_cylinder.png" alt="images/rotate_cylinder.png" width="200"/>
-  <img src="images/rotate_plane.png" alt="images/rotate_plane.png" width="200"/>
   <img src="images/multi_sphere.png" alt="images/multi_sphere.png" width="200"/>
 </p>
 
