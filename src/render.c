@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   render.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tterao <tterao@student.42.fr>              +#+  +:+       +#+        */
+/*   By: ryhara <ryhara@student.42tokyo.jp>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/14 14:33:01 by tterao            #+#    #+#             */
-/*   Updated: 2023/10/14 14:34:31 by tterao           ###   ########.fr       */
+/*   Updated: 2023/11/12 22:05:16 by ryhara           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -47,10 +47,10 @@ int	create_rgb(int red, int green, int blue)
 
 void	render(t_global_data *data)
 {
-	t_objs	*node;
+	// t_objs	*node;
 
 	_mlx_init(data);
-	node = data->objs_list->next;
+	// node = data->objs_list->next;
 	render_loop(data);
 	mlx_hook(data->mlx_win, ON_KEYDOWN, 0, close_esc, data);
 	mlx_hook(data->mlx_win, ON_DESTROY, 0, close_x, data);
