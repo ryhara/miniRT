@@ -6,6 +6,12 @@
 - Phongの反射モデル（環境光(定数)、直接光の拡散反射光、直接光の鏡面反射光）
 
 ## Example
+<p align="center">
+  <img src="images/two_sphere.png" alt="images/two_sphere.png" width="200"/>
+  <img src="images/two_sphere2.png" alt="images/two_sphere2.png" width="200"/>
+  <img src="images/two_cylinder.png" alt="images/two_cylinder.png" width="200"/>
+</p>
+
 ![two_sphere.png](images/two_sphere.png)
 ![two_sphere2.png](images/two_sphere2.png)
 ![two_cylinder.png](images/two_cylinder.png)
